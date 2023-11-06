@@ -13,4 +13,4 @@ creiamo un programma che andrà a definirci il prezzo totale di un biglietto per
 
    --oppure (caso3) l' importo è calcolato senza uno sconto.
 
-   5) stampare l' importo totale con massimo 2 decimali.
+5) stampare l' importo totale con massimo 2 decimali.
